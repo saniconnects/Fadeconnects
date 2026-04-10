@@ -1,8 +1,0 @@
-{
-  "routes": [
-    { "src": "/icons/(.*)", "dest": "/icons/$1" },
-    { "src": "/manifest.json", "dest": "/manifest.json" },
-    { "src": "/sw.js", "dest": "/sw.js" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
-}
